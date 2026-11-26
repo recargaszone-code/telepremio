@@ -1,0 +1,4 @@
+node_modules/
+assets/vsl.mp4
+.DS_Store
+*.log

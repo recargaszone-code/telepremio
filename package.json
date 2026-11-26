@@ -1,0 +1,12 @@
+{
+  "name": "telepremio-clone",
+  "version": "1.0.0",
+  "description": "TELE PRÊMIO — Clone 100% real do Sorteio em parceria com TV SUCESSO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
